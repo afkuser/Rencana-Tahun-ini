@@ -1,0 +1,5 @@
+Rencana Kedepan
+- Bisa Laravel & ajax
+- Membuat Projek Dengan Laravel 
+- bangun pagi
+- solat tepat waktu
