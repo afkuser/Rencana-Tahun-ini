@@ -3,3 +3,4 @@ Rencana Kedepan
 - Membuat Projek Dengan Laravel 
 - bangun pagi
 - solat tepat waktu
+- Menggunakan waktu lebih efektif
